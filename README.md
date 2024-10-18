@@ -7,5 +7,5 @@ Versjonskontroll av PowerBI malen utviklet og brukt av Renovasjons- og gjenvinni
 
 Husk å ta sikkerhetskopi av rapporten din før du prøver deg frem med nytt tema.
 
-Trykk her[https://raw.githubusercontent.com/oslokommune-reg/powerbi-template/refs/heads/main/template.pbix] for å laste ned PowerBI filen, og her[
-https://raw.githubusercontent.com/oslokommune-reg/powerbi-template/refs/heads/main/theme.json] for å laste ned temafilen.
+Trykk her(https://raw.githubusercontent.com/oslokommune-reg/powerbi-template/refs/heads/main/template.pbix) for å laste ned PowerBI filen, og her(
+https://raw.githubusercontent.com/oslokommune-reg/powerbi-template/refs/heads/main/theme.json) for å laste ned temafilen.
