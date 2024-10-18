@@ -1,6 +1,4 @@
 # PowerBI mal inspirtert av Oslo Kommune designmanual
-
-## Beskrivelse
 Versjonskontroll av PowerBI malen utviklet og brukt av Renovasjons- og gjenvinningsetaten.
 
 - `template.pbix` er en PowerBI fil uten data som tar i bruk malen, denne er "plug-and-play".
