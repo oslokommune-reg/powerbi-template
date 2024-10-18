@@ -13,3 +13,6 @@ Trykk [her](https://raw.githubusercontent.com/oslokommune-reg/powerbi-template/r
 https://raw.githubusercontent.com/oslokommune-reg/powerbi-template/refs/heads/main/theme.json) for å laste ned temafilen.
 
 ## Eksempler på bruk
+Malen/tema funker som utgangspunkt i rapportene vi lager, men må ofte endres litt avhengig av rapportens behov.
+
+![Besøkstall](/img/eksempel_1.png "Besøkstall")
